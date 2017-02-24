@@ -1,0 +1,21 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "jade": "^1.11.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.4",
+    "serve-static": "^1.11.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jessie.zhu",
+  "license": "ISC"
+}

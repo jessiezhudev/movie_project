@@ -1,0 +1,21 @@
+{
+  "name": "imooc",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "jessie.zhu"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
